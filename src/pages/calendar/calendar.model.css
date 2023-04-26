@@ -1,0 +1,15 @@
+.css-12rl710-MuiPaper-root-MuiDialog-paper{
+    width: 700px !important;
+}
+
+.emailDetail{
+    display: flex;
+    column-gap: 11px;
+    margin-top: 3%;
+}
+
+.css-s22wio p{
+    padding: 5px 50px !important;
+    position: relative !important;
+    margin-top: -3% !important;
+}
